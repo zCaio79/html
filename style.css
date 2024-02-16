@@ -42,7 +42,7 @@ a{
 .imagem{
     display: flex;
     justify-content: center;
-    height: 50vh;
+    height: 60vh;
     width: 50vh;
     border-radius: 20px;
     box-shadow: 6px 6px 14px 3px rgba(0,0,0,0.75);
